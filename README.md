@@ -7,6 +7,9 @@ Other open source editors to check out:
 - [Pulsar Edit](https://github.com/pulsar-edit/pulsar)
 - [VSCodium](https://github.com/VSCodium/vscodium)
 - [Lapce](https://github.com/lapce/lapce)
+- [Brackets](http://brackets.io/)
+- [CotEditor](https://github.com/coteditor/CotEditor)
+- [Emacs](https://emacsformacos.com/)
 
 ## Macros
 - Back Tab: shift + tab (same as ShiftLeft)
