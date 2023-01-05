@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>shiftLeft:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>$	</string>
+	<key>name</key>
+	<string>Back Tab</string>
+	<key>uuid</key>
+	<string>98CB9D01-FA4D-4D4A-86C9-E11BF65A193E</string>
+</dict>
+</plist>
