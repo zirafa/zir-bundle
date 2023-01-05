@@ -3,8 +3,9 @@
 Trying to keep track of my textmate configuration and preferences as I try and migrate from Atom to Textmate.
 
 Other open source editors to check out:
+- [Atom Community](https://github.com/atom-community/atom)
+- [Pulsar Edit](https://github.com/pulsar-edit/pulsar)
 - [Lapce](https://github.com/lapce/lapce)
-- [Pulsar](https://github.com/pulsar-edit/pulsar)
 
 ## Macros
 - Back Tab: shift + tab (same as ShiftLeft)
