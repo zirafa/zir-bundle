@@ -2,15 +2,6 @@
 
 Trying to keep track of my textmate configuration and preferences as I try and migrate from Atom to Textmate.
 
-Other open source editors to check out:
-- [Atom Community](https://github.com/atom-community/atom)
-- [Pulsar Edit](https://github.com/pulsar-edit/pulsar)
-- [VSCodium](https://github.com/VSCodium/vscodium)
-- [Lapce](https://github.com/lapce/lapce)
-- [Brackets](http://brackets.io/)
-- [CotEditor](https://github.com/coteditor/CotEditor)
-- [Emacs](https://emacsformacos.com/)
-
 ## Macros
 - Back Tab: shift + tab (same as ShiftLeft)
 - Duplicate Line: ⌘D
@@ -40,5 +31,16 @@ Textmate is slightly quirky in some areas, mostly around Tab key behavior:
 - Inserting a tab in the middle of a line works as expected. Removing a tab (or doing a back tab) in the middle of a line doesn't seem to work. ShiftRight/ShiftLeft always shifts the line from the start of the line, not the position of the cursor. 
 - Soft tabs are treated as virtual hard tabs. Soft tabs inserts 2 spaces but pressing the left arrow key or delete key I expect to be able to navigate back 1 space. Instead it always jumps back 2 spaces.
 - Opening a new file from Finder or Terminal always opens in a new window instead of a new tab. 
+
+## Alternatives
+
+Other open source editors to check out:
+- [Atom Community](https://github.com/atom-community/atom)
+- [Pulsar Edit](https://github.com/pulsar-edit/pulsar)
+- [VSCodium](https://github.com/VSCodium/vscodium)
+- [Lapce](https://github.com/lapce/lapce)
+- [Brackets](http://brackets.io/)
+- [CotEditor](https://github.com/coteditor/CotEditor)
+- [Emacs](https://emacsformacos.com/)
 
 
