@@ -7,8 +7,8 @@ Other open source editors to check out:
 - [Pulsar](https://github.com/pulsar-edit/pulsar)
 
 ## Macros
-Back Tab: shift + tab (same as ShiftLeft)
-Duplicate Line: ⌘D
+- Back Tab: shift + tab (same as ShiftLeft)
+- Duplicate Line: ⌘D
 
 ## Themes
 - Monokai Light (https://github.com/rjfranco/monokai-light)
