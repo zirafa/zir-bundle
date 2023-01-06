@@ -428,6 +428,10 @@
 			<string>markup.heading, markup.heading entity.name</string>
 			<key>settings</key>
 			<dict>
+				<key>fontName</key>
+				<string>Menlo</string>
+				<key>fontSize</key>
+				<string>1em</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
