@@ -2,23 +2,27 @@
 
 Trying to keep track of my textmate configuration and preferences as I try and migrate from Atom to Textmate.
 
-## Macros
+## Installation
+Download the zip file for this bundle or clone the repo and open zir-bundle.tmbundle in Textmate to install.
+
+## Included Macros
 - Back Tab: shift + tab (same as ShiftLeft)
 - Duplicate Line: ⌘D
 
-## Themes
+## Included Themes
 - Monokai Light (https://github.com/rjfranco/monokai-light)
 - Github Light & Dark (https://github.com/primer/github-textmate-theme)
 - Zir Theme (custom theme based on Github Light)
 
-## Notes
+## My Setup notes
 - Textmate > Preferences > Show Tab for single document
 - Font: Menlo 14 Regular
 - Disable Soft Wrap, Show wrap column (80 width)
-- defaults write com.macromates.TextMate disableTypingPairs YES
+- Enable shell support: Textmate > Preferences > Terminal (you can then open a file from terminal with ```mate filename.txt```)
+- To disable autoclosing brackets, open up terminal and run ```defaults write com.macromates.TextMate disableTypingPairs YES```
 - Set custom light theme to zir-theme
-- Disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings
-- Enable Markdown: Github GFM Syntax Bundle (do not enable GFM body styles bundle): Textmate > Preferences > Bundles
+- Modify or disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings (Defaults to giant Baskerville heading styles)
+- Enable Markdown: Github GFM Syntax Bundle (but do not enable GFM body styles bundle): Textmate > Preferences > Bundles
 - Download [Typescript language bundle](https://github.com/stanger/TypeScript-TextMate)
 - ShiftRight (Block Indent): option + tab or ⌘]
 - ShiftLeft (Reverse Block Indent): shift + tab or ⌘[ 
