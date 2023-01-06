@@ -17,7 +17,8 @@ Trying to keep track of my textmate configuration and preferences as I try and m
 - Disable Soft Wrap, Show wrap column (80 width)
 - defaults write com.macromates.TextMate disableTypingPairs YES
 - Set custom light theme to zir-theme
-- (optional) Disable Markdown font sizes: Bundles > Edit Bundle > Themes > Settings
+- Disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings
+- Enable Markdown: Github GFM Syntax Bundle (do not enable GFM body styles bundle)
 - ShiftRight (Block Indent): option + tab or ⌘]
 - ShiftLeft (Reverse Block Indent): shift + tab or ⌘[ 
 - ctrl+shift+p: see what the descendent selector is for selection
