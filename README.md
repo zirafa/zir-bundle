@@ -24,7 +24,7 @@ Download the zip file for this bundle or clone the repo and open zir-bundle.tmbu
 - Enable shell support: Textmate > Preferences > Terminal (you can then open a file from terminal with ```mate filename.txt```)
 - To disable autoclosing brackets, open up terminal and run ```defaults write com.macromates.TextMate disableTypingPairs YES```
 - Set and use custom light theme (zir-theme): View > Theme > Theme for Light Appearance
-- Modify or disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings (Defaults to giant Baskerville heading styles)
+- Modify or disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings (Defaults to giant Baskerville heading styles and courier)
 - Enable Markdown: Github GFM Syntax Bundle (but do not enable GFM body styles bundle): Textmate > Preferences > Bundles
 - Download [Typescript language bundle](https://github.com/stanger/TypeScript-TextMate)
 - ShiftRight (Block Indent): option + tab or ⌘]
