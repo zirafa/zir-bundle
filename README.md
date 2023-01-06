@@ -18,7 +18,8 @@ Trying to keep track of my textmate configuration and preferences as I try and m
 - defaults write com.macromates.TextMate disableTypingPairs YES
 - Set custom light theme to zir-theme
 - Disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings
-- Enable Markdown: Github GFM Syntax Bundle (do not enable GFM body styles bundle)
+- Enable Markdown: Github GFM Syntax Bundle (do not enable GFM body styles bundle): Textmate > Preferences > Bundles
+- Download [Typescript language bundle](https://github.com/stanger/TypeScript-TextMate)
 - ShiftRight (Block Indent): option + tab or ⌘]
 - ShiftLeft (Reverse Block Indent): shift + tab or ⌘[ 
 - ctrl+shift+p: see what the descendent selector is for selection
