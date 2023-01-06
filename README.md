@@ -5,22 +5,25 @@ Trying to keep track of my textmate configuration and preferences as I try and m
 ## Installation
 Download the zip file for this bundle or clone the repo and open zir-bundle.tmbundle in Textmate to install.
 
-## Included Macros
+## Included macros (key bindings)
 - Back Tab: shift + tab (same as ShiftLeft)
 - Duplicate Line: ⌘D
 
-## Included Themes
+## Included themes
+- Zir Theme (custom theme based on Github Light)
 - Monokai Light (https://github.com/rjfranco/monokai-light)
 - Github Light & Dark (https://github.com/primer/github-textmate-theme)
-- Zir Theme (custom theme based on Github Light)
 
-## My Setup notes
+## My setup notes
 - Textmate > Preferences > Show Tab for single document
-- Font: Menlo 14 Regular
-- Disable Soft Wrap, Show wrap column (80 width)
+- Set font to Menlo 14 Regular: View > Font > Show Fonts
+- Disable Soft Wrap: View > Disable Soft Wrap
+- Set column width to 80: View > Wrap Column > 80
+- Show wrap column: View > Show Wrap Column
+- Soft tabs, 2 spaces: Click bottom toolbar to configure tab settings
 - Enable shell support: Textmate > Preferences > Terminal (you can then open a file from terminal with ```mate filename.txt```)
 - To disable autoclosing brackets, open up terminal and run ```defaults write com.macromates.TextMate disableTypingPairs YES```
-- Set custom light theme to zir-theme
+- Set and use custom light theme (zir-theme): View > Theme > Theme for Light Appearance
 - Modify or disable default Markdown font styles: Bundles > Edit Bundle > Themes > Settings (Defaults to giant Baskerville heading styles)
 - Enable Markdown: Github GFM Syntax Bundle (but do not enable GFM body styles bundle): Textmate > Preferences > Bundles
 - Download [Typescript language bundle](https://github.com/stanger/TypeScript-TextMate)
