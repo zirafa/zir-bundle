@@ -41,6 +41,7 @@ Other open source editors to check out:
 - [Lapce](https://github.com/lapce/lapce)
 - [Brackets](http://brackets.io/)
 - [CotEditor](https://github.com/coteditor/CotEditor)
+- [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit/)
 - [Emacs](https://emacsformacos.com/)
 
 
