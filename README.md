@@ -15,7 +15,7 @@ Download the zip file for this bundle or clone the repo and open zir-bundle.tmbu
 - Github Light & Dark (https://github.com/primer/github-textmate-theme)
 
 ## My setup notes
-- Textmate > Preferences > Show Tab for single document
+- Textmate > Settings > Projects > Document Tabs >  Show for single document
 - Set font to Menlo 14 Regular: View > Font > Show Fonts
 - Disable Soft Wrap: View > Disable Soft Wrap
 - Set column width to 80: View > Wrap Column > 80
