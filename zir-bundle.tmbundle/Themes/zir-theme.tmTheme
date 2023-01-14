@@ -423,23 +423,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markup.heading</string>
-			<key>scope</key>
-			<string>markup.heading, markup.heading entity.name</string>
-			<key>settings</key>
-			<dict>
-				<key>fontName</key>
-				<string>Menlo</string>
-				<key>fontSize</key>
-				<string>1em</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#24292e</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Markup.quote</string>
 			<key>scope</key>
 			<string>markup.quote</string>
@@ -477,13 +460,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markup.heading</string>
+			<key>scope</key>
+			<string>markup.heading, markup.heading entity.name</string>
+			<key>settings</key>
+			<dict>
+				<key>fontName</key>
+				<string>Menlo</string>
+				<key>fontSize</key>
+				<string>1em</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#24292e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Markup.raw</string>
 			<key>scope</key>
 			<string>markup.raw</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>Menlo</string>
 				<key>foreground</key>
 				<string>#005cc5</string>
 			</dict>
