@@ -1,6 +1,6 @@
 # Zir-Bundle (Custom Textmate Bundle)
 
-Trying to keep track of my textmate configuration and preferences as I try and migrate from Atom to Textmate.
+Trying to keep track of my textmate configuration and preferences as I try and migrate from Atom to Textmate. 
 
 ## Installation
 Download the zip file for this bundle or clone the repo and open zir-bundle.tmbundle in Textmate to install.
@@ -10,7 +10,7 @@ Download the zip file for this bundle or clone the repo and open zir-bundle.tmbu
 - Duplicate Line: ⌘D
 
 ## Included themes
-- Zir Theme (custom theme based on Github Light)
+- Zir Theme (custom theme heavily based on Github Light)
 - Monokai Light (https://github.com/rjfranco/monokai-light)
 - Github Light & Dark (https://github.com/primer/github-textmate-theme)
 
@@ -40,6 +40,8 @@ Textmate is slightly quirky in some areas, mostly around Tab key behavior:
 - Inserting a tab in the middle of a line works as expected. Removing a tab (or doing a back tab) in the middle of a line doesn't seem to work. ShiftRight/ShiftLeft always shifts the line from the start of the line, not the position of the cursor. 
 - Soft tabs are treated as virtual hard tabs. Soft tabs inserts 2 spaces but pressing the left arrow key or delete key I expect to be able to navigate back 1 space. Instead it always jumps back 2 spaces.
 - Opening a new file from Finder or Terminal always opens in a new window instead of a new tab. Setting the File Browser Project directory to match your home directory may fix: View > Show File Browser > Navigate to your home directory, and then click the directory path at the top and select "Use as Project Folder"
+- [Resetting and deleting all Textmate bundles & preferences](https://stackoverflow.com/questions/16429165/completely-uninstall-restore-textmate-2) takes more effort than it should.
+- Sometimes multiple enabled bundles/themes have settings or styles that modify the same element which can cause unpredictable formatting/styles. It's not always clear in what order bundle/theme styles are being applied. Sometimes ctrl+shift+p while selecting some text can help show you where it is happening, but often it's just easier to disable extra settings/themes/bundles until the problem goes away. Settings for bundles can be found by going to Bundles > Edit Bundle > YourBundle > Settings, and uncheck "Enable this item" on the right. If you actually modify or delete a setting, it's a pain to reset it back to defaults (see above link about Resetting/deleting Textmate preferences) . 
 
 ## Alternatives
 
