@@ -9,6 +9,10 @@ Download the zip file for this bundle or clone the repo and open zir-bundle.tmbu
 - Back Tab: shift + tab (same as ShiftLeft)
 - Duplicate Line: ⌘D
 
+## Included snippets
+- Create Docblock Comment (similar to JavaDoc Bundle, but any source): control + command + / (or type /** + TAB) 
+- Continue Docblock Comment: fn + enter
+
 ## Included themes
 - Zir Theme (custom theme heavily based on Github Light)
 - Monokai Light (https://github.com/rjfranco/monokai-light)
